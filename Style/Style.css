@@ -1,0 +1,63 @@
+h1
+{
+    /*font-family: Tahoma;*/
+    color: blueviolet;
+    font-size: 38px;
+}
+p
+{
+    /*font-family: Tahoma;*/
+    line-height: 1.5;
+    font-size: 18px;
+}
+.text01
+{
+    font-family: Tahoma;
+    background-color: lightgray;
+    width: 85%;
+    text-align: left;
+    padding: 20px 50px 50px 50px;
+    margin: 50px 0px 50px 0px;
+    border-radius: 50px;
+}
+.pic1
+{
+    background-image: url(../images/1.jpg);
+    width: 100%;
+    height: 750px;
+    background-size: cover;
+    /*background-size: contain;
+    background-repeat: no-repeat;*/
+    background-position: center;
+    border-radius: 25px;
+}
+.text02
+{
+    font-family: monospace;
+    background-color: lightskyblue;
+    width: 85%;
+    text-align: center;
+    padding: 25px;
+    margin: 25px 0px 25px 100px;
+    border-radius: 25px 25px 0px 0px;
+}
+.text001
+{
+    color: #ffffff;
+    font-family: serif;
+    font-size: 20px;
+}
+.link1
+{
+    color: black;
+    font-family: Tahoma;
+    font-size: 30px;
+}
+/*.a
+{
+    font-family: Tahoma;
+}
+.ol
+{
+    font-family: Tahoma;
+}*/
